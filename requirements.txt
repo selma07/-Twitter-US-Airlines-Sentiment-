@@ -1,9 +1,0 @@
- pandas
- numpy
- matplotlib
- jupyter
- scipy
- scikitlearn
- nlp
- re
- seaborn
